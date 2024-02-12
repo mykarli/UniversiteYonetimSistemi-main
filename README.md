@@ -1,0 +1,2 @@
+# UniversiteYonetimSistemi-main
+Sınıf Diyagramı
